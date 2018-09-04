@@ -22,6 +22,7 @@ An object motion detection application with background subtraction technique. Im
 <br>
 <hr>
 <br>
+
 **Video Sample Input 2 - Dynamic Background (Moving Fountain Water)**
 
 | Input Frame | Result |
